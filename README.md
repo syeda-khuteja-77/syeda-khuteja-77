@@ -1,7 +1,6 @@
 ## 👋🌍 Hello World!
 
-Welcome to my data-driven corner of GitHub! 💻📊
-I’m **Syeda Khuteja**, and my enthusiasm for **Data Analysis** fuels everything you’ll see here — from exploratory data analysis to dashboards, visual stories, and real-world business insights.
+Welcome to my data-driven corner of GitHub! 💻📊 my enthusiasm for **Data Analysis** fuels everything you’ll see here — from exploratory data analysis to dashboards, visual stories, and real-world business insights.
 
 ### 📌 Here’s what you’ll find here:
 
